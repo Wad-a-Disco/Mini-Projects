@@ -1,0 +1,7 @@
+Math,A,3
+English,B,4
+Science,A,3
+History,B,3
+Physics,C,5
+Art,A,2
+Computer Science,A,4

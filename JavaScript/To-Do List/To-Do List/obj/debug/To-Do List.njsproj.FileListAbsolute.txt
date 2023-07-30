@@ -1,0 +1,3 @@
+C:\Users\wade3\Desktop\Mini-Projects\JavaScript\Beginner\To-Do List\To-Do List\obj\Debug\To-Do List.njsproj.AssemblyReference.cache
+C:\Users\wade3\Desktop\Mini-Projects\JavaScript\Beginner\To-Do List\To-Do List\obj\Debug\To-Do List.njsproj.CoreCompileInputs.cache
+C:\Users\wade3\Desktop\Mini-Projects\JavaScript\Beginner\To-Do List\To-Do List\bin\Microsoft.NodejsTools.WebRole.dll
